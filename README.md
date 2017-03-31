@@ -1,6 +1,7 @@
+Temporaly Repository.  
 
-Project-X development tree
+please check https://github.com/Tillkoeln/x 
 
-Project-X is a PoS-based cryptocurrency.
+for Infos !!
 
 

@@ -5,6 +5,7 @@ please check https://github.com/Tillkoeln/x
 for Infos !!
 
 
+--------------------------------------------------------
 
 Mining Contracts Beta Test Offer
 

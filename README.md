@@ -1,4 +1,4 @@
-Temporaly Repository.  
+
 
 please check https://github.com/Tillkoeln/x 
 
@@ -11,7 +11,7 @@ Mining Contracts Beta Test Offer
 
 Duration : 14 Days
 
-Price :  0.01 BTC
+Price :  0.02 BTC
 
 Payout : 10000 NanoX  <0.00010000>
 

@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = Project-X-0.0.1-qt
-VERSION = 0.0.1
+TARGET = Project-X-0.0.2-qt
+VERSION = 0.0.2
 INCLUDEPATH += src src/json src/qt
 QT += core gui network webkit
 DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE

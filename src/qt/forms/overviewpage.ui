@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1077</width>
-    <height>533</height>
+    <height>656</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -382,23 +382,13 @@
        </property>
        <property name="url">
         <url>
-         <string>http://185.117.73.210/dynamicBackground/ohne_titel_5.html</string>
+         <string>http://185.117.73.210/dynamicBackground/wallet-login.html</string>
         </url>
        </property>
+       <property name="zoomFactor">
+        <double>1.000000000000000</double>
+       </property>
       </widget>
-     </item>
-     <item>
-      <spacer name="verticalSpacer_2">
-       <property name="orientation">
-        <enum>Qt::Vertical</enum>
-       </property>
-       <property name="sizeHint" stdset="0">
-        <size>
-         <width>20</width>
-         <height>40</height>
-        </size>
-       </property>
-      </spacer>
      </item>
     </layout>
    </item>
